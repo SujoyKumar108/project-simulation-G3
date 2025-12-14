@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"## F-3: Add,Update,search, and delete inventory" 
+"Inventory items can be added, edited, searched by name/category, and deleted; all changes are saved and visible in real time." 
+"**Status: Implemented**" 
+"" 
