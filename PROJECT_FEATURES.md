@@ -1,4 +1,6 @@
 "# Implemented Features" 
+## F-40: Submit Feedback
+Submit the feedback which was gave customer
 ##F-31: Implement Apply Discount
 Apply item-level or combo discounts during order processing.
 **Status : Implemented**
